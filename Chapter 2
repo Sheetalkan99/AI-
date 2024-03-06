@@ -1,0 +1,22 @@
+- Rationality
+What is rational at any given time depends on four things:
+The performance measure that defines the criterion of success.
+The agent’s prior knowledge of the environment.
+The actions that the agent can perform.
+The agent’s percept sequence to date.
+
+1. Task environment:  The nature of the task
+environment directly affects the appropriate design for the agent program.
+
+2. Four basic kinds of agent programs that embody
+    the principles underlying almost all intelligent systems:
+                Simple reflex agents;
+                Model-based reflex agents;
+                Goal-based agents; and
+                Utility-based agents.
+3. Model-based agent
+    The transition model and sensor model allow an agent to keep track of the state of
+the world—to the extent possible given the limitations of the agent’s sensors. An agent that
+uses such models is called a model-based agent.
+
+4. 
